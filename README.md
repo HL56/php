@@ -11,5 +11,5 @@ This repo uses [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/sta
 This repo is compatible with [ubi](https://github.com/houseabsolute/ubi). I recommend using [mise-en-place](https://github.com/jdx/mise) to install the binaries:
 
 ```bash
-mise use github:hl56/php@8.1.29
+mise use github:HL56/php@8.1.29
 ```
